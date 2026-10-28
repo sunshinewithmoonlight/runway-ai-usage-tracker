@@ -5,6 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.0-beta.16](https://github.com/s3ntin3l8/runway-ai-usage-tracker/compare/v3.0.0-beta.15...v3.0.0-beta.16) (2026-10-28)
+
+
+### Features
+
+* **fleet:** show a paired device's hostname and offer to adopt its legacy sidecar ([#1028](https://github.com/s3ntin3l8/runway-ai-usage-tracker/issues/1028)) ([45d4e27](https://github.com/s3ntin3l8/runway-ai-usage-tracker/commit/45d4e2724745deb5385490fc4a0abfac1069bbc5))
+
+
+### Bug Fixes
+
+* **poller:** keep the Mac pairing hint for keychain and origin-less sources ([#1032](https://github.com/s3ntin3l8/runway-ai-usage-tracker/issues/1032)) ([53e0e56](https://github.com/s3ntin3l8/runway-ai-usage-tracker/commit/53e0e568c7ec99184350ed6cabedcf8ee7b1a0e3))
+* **poller:** say a credential stopped reporting instead of "collector no longer active" ([#1029](https://github.com/s3ntin3l8/runway-ai-usage-tracker/issues/1029)) ([0187864](https://github.com/s3ntin3l8/runway-ai-usage-tracker/commit/0187864c3c96f2397e896821374e9edcf705b01a))
+* **tests:** give oversized chat-fixture params a short id so Windows can run them ([#1036](https://github.com/s3ntin3l8/runway-ai-usage-tracker/issues/1036)) ([b540360](https://github.com/s3ntin3l8/runway-ai-usage-tracker/commit/b54036070114dcd9e11ae65bb4aa2595b0c932ef))
+
 ## [3.0.0-beta.15](https://github.com/s3ntin3l8/runway-ai-usage-tracker/compare/v3.0.0-beta.14...v3.0.0-beta.15) (2026-10-27)
 
 
